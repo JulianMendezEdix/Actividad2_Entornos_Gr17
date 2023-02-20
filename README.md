@@ -43,7 +43,10 @@ Y la segunda:
 
 Hago commit y hago push en mi rama 'julian' de desarollo.
 
-El día de la entrega, añado como colaborador a Pablo y a Enrique que me lo piden. Hablamos en el grupo y decidimos poner el trabajo X en el main y copio y pego todos los comentarios que me da tiempo en este archivo .md. Y hago una portada.
+El día de la entrega, añado como colaboradores a Pablo y a Enrique que aparecen y me lo piden. Hablamos en el grupo y decidimos poner mi rama en el main y copio y pego todos los comentarios que me da tiempo en este archivo .md. Y hago una portada.
+
+Hago un merge de mi rama julian a la rama main. Y hago un push en la rama origin main.
+
 
 ## Isidro
 
