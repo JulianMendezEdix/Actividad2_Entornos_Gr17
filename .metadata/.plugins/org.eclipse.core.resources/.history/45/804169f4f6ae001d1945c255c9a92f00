@@ -1,0 +1,26 @@
+package JUnit5;
+
+import clase.Soldado;
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class SoldadoTest {
+
+	@Test
+	public void testPuedeDispararTieneBalas() {;
+	    Soldado sol = new Soldado();
+	    sol.setNumeroBalas(10);
+		assertTrue(true);
+		
+	}
+	@Test
+	public void testPuedeDispararSinBalas() {
+		Soldado sol = new Soldado();
+	    sol.setNumeroBalas(0);
+		assertFalse(false);
+	}
+	
+	
+
+}

@@ -1,0 +1,21 @@
+package JUnit5;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class SoldadoTest {
+
+	@Test
+	public void puedeDisparar() {
+		System.out.println("Test 1");
+		int numeroBalas = 10;
+		assertTrue(true);
+			int numeroBalas1 = 0;
+			assertFalse(false);
+		
+		
+		
+	}
+
+}

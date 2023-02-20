@@ -1,0 +1,33 @@
+package JUnit5;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+import clase.Jugador;
+
+class JugadorTest {
+
+	@Test
+	public void testDorsalPositivo() {
+		Jugador jugador = new Jugador();
+		jugador.setDorsal(10);
+		
+		int resultadoEsperado = 10;
+		int resultadoObtenido = jugador.getDorsal();
+		
+		assertEquals(resultadoEsperado, resultadoObtenido);
+	}
+	
+	@Test
+	public void testDorsalNegativo() {
+		Jugador jugador = new Jugador();
+		jugador.setDorsal(40);
+		
+		int resultadoEsperado = 39;
+		int resultadoObtenido = jugador.getDorsal();
+		
+		assertEquals(resultadoEsperado, resultadoObtenido);
+	}
+
+}
