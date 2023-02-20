@@ -1,4 +1,4 @@
-﻿![portada.jpg](img/portada.jpg)
+![portada.jpg](img/portada.jpg)
 
 # ACTIVIDAD 2
 ## Tarea en equipo. JavaDoc y JUnit
@@ -29,17 +29,21 @@ Creo el repositorio en github y hago el primer commit en el main con un proyecto
 
 ![julian2.png](img/julian2.jpg)
 
-Hago la documentación javadoc:
+Hago la documentación javadoc, a continuación un ejemplo:
 
 ![julian3.png](img/julian3.jpg)
 
-Y las pruebas unitarias con Junit5:
+Y hago las pruebas unitarias con Junit5. A continuación adjunto capturas de pantalla con las pruebas que no han pasado el test porque son casos que no estarían planteados en las clases originales:
 
 ![julian4.png](img/julian4.jpg)
 
+Y la segunda:
+
+![julian5.png](img/julian5.jpg)
+
 Hago commit y hago push en mi rama 'julian' de desarollo.
 
-El día de la entrega, añado como colaborador a Pablo que me lo pide. Hablamos en el grupo y decidimos poner el trabajo X en el main y copio y pego todos nuestros comentarios en este archivo .md. Y hago una portada.
+El día de la entrega, añado como colaborador a Pablo y a Enrique que me lo piden. Hablamos en el grupo y decidimos poner el trabajo X en el main y copio y pego todos nuestros comentarios en este archivo .md. Y hago una portada.
 
 ## Isidro
 
