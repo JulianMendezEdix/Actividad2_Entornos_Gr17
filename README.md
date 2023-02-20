@@ -25,17 +25,17 @@ https://github.com/JulianMendezEdix/AD2_Entornos_Gr17
 
 Creo el repositorio en github y hago el primer commit en el main con un proyecto java que incluye el código de la práctica. Añado como colaborador a Isidro. Y creo una rama para mi desarrollo y la llamo 'julian'.
 
-![julian1.png](img/julian1.png)
+![julian1.png](img/julian1.jpg)
 
-![julian2.png](img/julian2.png)
+![julian2.png](img/julian2.jpg)
 
 Hago la documentación javadoc:
 
-![julian3.png](img/julian3.png)
+![julian3.png](img/julian3.jpg)
 
 Y las pruebas unitarias con Junit5:
 
-![julian4.png](img/julian4.png)
+![julian4.png](img/julian4.jpg)
 
 Hago commit y hago push en mi rama 'julian' de desarollo.
 
