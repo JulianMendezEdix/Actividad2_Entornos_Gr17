@@ -23,13 +23,23 @@ https://github.com/JulianMendezEdix/AD2_Entornos_Gr17
 
 ## Julián
 
-Creo el repositorio en github y hago el primer commit en el main con un proyecto java que incluye el código de la práctica. Añado como colaborador a Isidro.
+Creo el repositorio en github y hago el primer commit en el main con un proyecto java que incluye el código de la práctica. Añado como colaborador a Isidro. Y creo una rama para mi desarrollo y la llamo 'julian'.
 
-Creo una rama para mi desarrollo y la llamo 'julian'.
+![julian1.png](img/julian1.png)
 
-Hago la documentación y los tests y pruebas en junit5.
+![julian2.png](img/julian2.png)
 
-Hago commit y hago push en mi rama de desarollo.
+Hago la documentación javadoc:
+
+![julian3.png](img/julian3.png)
+
+Y las pruebas unitarias con Junit5:
+
+![julian4.png](img/julian4.png)
+
+Hago commit y hago push en mi rama 'julian' de desarollo.
+
+El día de la entrega, añado como colaborador a Pablo que me lo pide. Hablamos en el grupo y decidimos poner el trabajo X en el main y copio y pego todos nuestros comentarios en este archivo .md. Y hago una portada.
 
 ## Isidro
 
@@ -57,10 +67,6 @@ Podemos ver mi rama creada junta a la rama Máster, que se irá modificando seg�
 ![isidro5.png](img/isidro5.png)
 
 ## Conclusiones grupales
-
-Git es una maravilla combinado con Github para trabajar y colaborar en grupo.
-Es una combinación que cubre todas las posibles soluciones que se nos ocurren para trabajar en grupo preservando el trabajo individual.
-Trabajar en grupo es complicado cuando los integrantes no pueden tener el mismo nivel de compromiso y no se cumplen unos mínimos.
 
 # FIN
 
