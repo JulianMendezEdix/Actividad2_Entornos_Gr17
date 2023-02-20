@@ -43,7 +43,7 @@ Y la segunda:
 
 Hago commit y hago push en mi rama 'julian' de desarollo.
 
-El día de la entrega, añado como colaborador a Pablo y a Enrique que me lo piden. Hablamos en el grupo y decidimos poner el trabajo X en el main y copio y pego todos nuestros comentarios en este archivo .md. Y hago una portada.
+El día de la entrega, añado como colaborador a Pablo y a Enrique que me lo piden. Hablamos en el grupo y decidimos poner el trabajo X en el main y copio y pego todos los comentarios que me da tiempo en este archivo .md. Y hago una portada.
 
 ## Isidro
 
@@ -56,21 +56,27 @@ https://github.com/JulianMendezEdix/AD2_Entornos_Gr17
 Vamos a ver los pasos dados, para llegar a crear mi rama en el proyecto de GitHub:
 
 Primero realizo un GitHub para ver todos los archivos que se han añadido:
+
 ![isidro1.png](img/isidro1.png)
 ![isidro2.png](img/isidro2.png)
 
 Creo una commit con el nombre de Isidro para añadir todos los archivos:
+
 ![isidro3.png](img/isidro3.png)
 
 Nos situamos sobre la rama master, y creamos la rama isidro y hacemos que nos mande a ella.
 Después enlazamos nuestro repositorio local con el remoto.
 Por último añadimos los datos de nuestro repositorio local.
+
 ![isidro4.png](img/isidro4.png)
 
 Podemos ver mi rama creada junta a la rama Máster, que se irá modificando según vayan haciendo las siguientes ramas mis compañeros.
+
 ![isidro5.png](img/isidro5.png)
 
-## Conclusiones grupales
+## Pablo
+
+Julián: "En la carpeta documentos/pablo está el documento que me envía el día de la entrega a las 21:00 y un par de capturas"
 
 # FIN
 
